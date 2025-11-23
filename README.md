@@ -1,0 +1,2 @@
+# Lotcalc
+Random lot generator
